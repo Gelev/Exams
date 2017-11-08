@@ -1,0 +1,6 @@
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 1. Poke Mon\Problem 1. Poke Mon\bin\Debug\Problem_1.Poke_Mon.exe.config
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 1. Poke Mon\Problem 1. Poke Mon\bin\Debug\Problem_1.Poke_Mon.exe
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 1. Poke Mon\Problem 1. Poke Mon\bin\Debug\Problem_1.Poke_Mon.pdb
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 1. Poke Mon\Problem 1. Poke Mon\obj\Debug\Problem 1. Poke Mon.csprojResolveAssemblyReference.cache
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 1. Poke Mon\Problem 1. Poke Mon\obj\Debug\Problem_1.Poke_Mon.exe
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 1. Poke Mon\Problem 1. Poke Mon\obj\Debug\Problem_1.Poke_Mon.pdb

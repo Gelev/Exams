@@ -1,0 +1,6 @@
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 2. Pokemon Don't Go\Problem 2. Pokemon Don't Go\bin\Debug\Problem_2.Pokemon_Don_t_Go.exe.config
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 2. Pokemon Don't Go\Problem 2. Pokemon Don't Go\bin\Debug\Problem_2.Pokemon_Don_t_Go.exe
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 2. Pokemon Don't Go\Problem 2. Pokemon Don't Go\bin\Debug\Problem_2.Pokemon_Don_t_Go.pdb
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 2. Pokemon Don't Go\Problem 2. Pokemon Don't Go\obj\Debug\Problem 2. Pokemon Don't Go.csprojResolveAssemblyReference.cache
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 2. Pokemon Don't Go\Problem 2. Pokemon Don't Go\obj\Debug\Problem_2.Pokemon_Don_t_Go.exe
+C:\Users\Drago\Desktop\Programming Fundamentals Exam\Problem 2. Pokemon Don't Go\Problem 2. Pokemon Don't Go\obj\Debug\Problem_2.Pokemon_Don_t_Go.pdb
